@@ -23,4 +23,3 @@ while repete:
         if resp == 'n':
             repete = False
             break
-
