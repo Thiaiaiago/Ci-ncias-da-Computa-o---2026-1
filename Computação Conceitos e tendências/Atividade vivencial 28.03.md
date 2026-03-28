@@ -1,6 +1,6 @@
-#Atividade vivencial 28.03
- Circuito 1
- ![Uploading circuitoAulaVicencial1-Parte2.png…]()
+# Atividade vivencial 28.03
+# Circuito 1
+![Uploading circuitoAulaVicencial1-Parte2.png…]()
 # Tabela verdade 1
 | A   | B   | C   | A\|C | ((A\|C)&B)' | (((A\|C)&B)')X\|B | ((((A\|C)&B)')X\|B)X\|C | B&C | ((B&C)\|A)' | (((B&C)\|A)')&B | ((((B&C)\|A)')&B)\|A | ((((((B&C)\|A)')&B)\|A)X\|(((((A\|C)&B)')X\|B)X\|C))' |
 | --- | --- | --- | ---- | ----------- | ----------------- | ----------------------- | --- | ----------- | --------------- | -------------------- | ----------------------------------------------------- |
